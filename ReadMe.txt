@@ -9,12 +9,12 @@ The root view controller displays information (title, author, and copyright date
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Xcode 3.1 or later, iPhone OS 3.0 or later.
+iOS 4.0 SDK
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-iPhone OS 3.0 or later.
+iPhone OS 3.2 or later
 
 ===========================================================================
 PACKAGING LIST:
@@ -34,8 +34,11 @@ A simple managed object class to represent a book.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
+Version 1.1
+- Upgraded project to build with the iOS 4.0 SDK.
+
 Version 1.0
 - First version.
 
 ===========================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
